@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NBT",
+    "slug": "NBT",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "NBT"
+}
